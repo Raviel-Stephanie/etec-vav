@@ -1,6 +1,6 @@
 C++:
 /*
-    Autor: Kael Elodie Whitmore
+    Autor: Raviel e Stephanie
     Data: Junho/2026
     Descrição: Lê dois números inteiros e informa qual é o maior ou se são iguais.
 */
@@ -38,7 +38,7 @@ int main()
 
 Python:
 """
-    Autor: Kael Elodie Whitmore
+    Autor: Raviel e Stephanie
     Data: Junho/2026
     Descrição: Lê dois números inteiros e informa qual é o maior ou se são iguais.
 """
