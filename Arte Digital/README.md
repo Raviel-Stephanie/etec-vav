@@ -1,6 +1,6 @@
 # ARTE DIGITAL
 
-Este repositório apresenta atividades e conhecimentos desenvolvidos na área de arte digital e edição de imagens:
+Este portfólio apresenta atividades e conhecimentos desenvolvidos na área de arte digital e edição de imagens:
 
 ## Objetivo
 
