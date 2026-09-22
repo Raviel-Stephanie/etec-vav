@@ -21,12 +21,12 @@ Conhecer os principais conceitos da Computação Quântica, ultilizando:
 - aplicações/: exemplos de uso da computação quântica
 - projetos/: atividades e experimentos realizados
 
-## Autoria
-
-Raviel e Stephanie
-
-Tecnologias ultilizadas:
+## Tecnologias ultilizadas:
 
 - HTML
 - CSS
 - Bootstrap
+
+## Autoria
+
+Raviel e Stephanie
