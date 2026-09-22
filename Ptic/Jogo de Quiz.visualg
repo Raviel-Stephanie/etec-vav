@@ -1,0 +1,264 @@
+algoritmo "Quiz"
+
+var
+   resposta: caractere
+   pontuacao: inteiro
+
+inicio
+   pontuacao <- 0
+
+   // Pergunta 1
+   escreval("1) Qual o planeta mais próximo do Sol?")
+   escreval("A) Marte")
+   escreval("B) Mercúrio")
+   escreval("C) Vênus")
+   escreval("D) Terra")
+   escreva("Resposta: ")
+   leia(resposta)
+
+   se resposta = "B" entao
+      pontuacao <- pontuacao + 1
+   fimse
+
+   // Pergunta 2
+   escreval("")
+   escreval("2) Qual o planeta esquecido do sistema solar?")
+   escreval("A) Ganimedes")
+   escreval("B) Urano")
+   escreval("C) Plutão")
+   escreval("D) Alnitak")
+   escreva("Resposta: ")
+   leia(resposta)
+
+   se resposta = "C" entao
+      pontuacao <- pontuacao + 1
+   fimse
+
+   // Pergunta 3
+   escreval("")
+   escreval("3) Qual o maior planeta do Sistema Solar")
+   escreval("A) Júpiter")
+   escreval("B) Vênus")
+   escreval("C) Urano")
+   escreval("D) Saturno")
+   escreva("Resposta: ")
+   leia(resposta)
+
+   se resposta = "A" entao
+      pontuacao <- pontuacao + 1
+   fimse
+
+   // Pergunta 4
+   escreval("")
+   escreval("4) Quais são os planetas gasosos?")
+   escreval("A) Júpiter, Netuno, Marte e Terra")
+   escreval("B) Vênus, Urano, Saturno e Marte")
+   escreval("C) Júpiter, Saturno, Urano e Netuno")
+   escreval("D) Júpiter, Mercúrio, Plutão e Vênus")
+   escreva("Resposta: ")
+   leia(resposta)
+
+   se resposta = "C" entao
+      pontuacao <- pontuacao + 1
+   fimse
+
+   // Pergunta 5
+   escreval(" ")
+   escreval("5) Qual o nome da nossa Galáxia?")
+   escreval("A) Andrômeda")
+   escreval("B) Sistema Solar")
+   escreval("C) Triângulo")
+   escreval("D) Via Láctea")
+   escreval("Resposta: ")
+   leia(resposta)
+
+   se resposta = "D" entao
+      pontuacao <- pontuacao + 1
+   fimse
+
+   // Pergunta 6
+   escreval(" ")
+   escreval("6) Qual a unidade padrão utilizada para medir distâncias astronômicas?")
+   escreval("A) Anos-luz")
+   escreval("B) Polegadas")
+   escreval("C) Quilômetros")
+   escreval("D) Hectare")
+   escreval("Resposta: ")
+   leia(resposta)
+
+   se resposta = "A" entao
+      pontuacao <- pontuacao + 1
+   fimse
+
+    // Pergunta 7
+   escreval(" ")
+   escreval("7) Qual o nome da Deusa de Vênus?")
+   escreval("A) Gaia")
+   escreval("B) Afrodite")
+   escreval("C) Perséfone")
+   escreval("D) Atena")
+   escreval("Resposta: ")
+   leia(resposta)
+
+   se resposta = "B" entao
+      pontuacao <- pontuacao + 1
+   fimse
+
+ // Pergunta 8
+   escreval(" ")
+   escreval("8) Quais são as principais estrelas do cinturão de Órion?")
+   escreval("A) Estrelas Binárias")
+   escreval("B) Três Marias")
+   escreval("C) As Sete Irmãs")
+   escreval("D) Alfa Centauri")
+   escreval("Resposta: ")
+   leia(resposta)
+
+   se resposta = "B" entao
+      pontuacao <- pontuacao + 1
+   fimse
+
+ // Pergunta 9
+   escreval(" ")
+   escreval("9) Qual o buraco negro com maior massa?")
+   escreval("A) Gaia BH1")
+   escreval("B) Sagittarus A")
+   escreval("C) TON 618")
+   escreval("D) Cygnus X-1")
+   escreval("Resposta: ")
+   leia(resposta)
+
+   se resposta = "C" entao
+      pontuacao <- pontuacao + 1
+   fimse
+
+
+ // Pergunta 10
+   escreval(" ")
+   escreval("10) Oque é são as Luas?")
+   escreval("A) Sstélite Natural")
+   escreval("B) Planeta Errante")
+   escreval("C) Asteroide")
+   escreval("D) Estrela")
+   escreval("Resposta: ")
+   leia(resposta)
+
+   se resposta = "A" entao
+      pontuacao <- pontuacao + 1
+   fimse
+
+
+ // Pergunta 11
+   escreval(" ")
+   escreval("11) Oque é uma Supernova?")
+   escreval("A) Explosão que marca a morte de uma estrela de grande massa ou o colapso de uma Anã Branca")
+   escreval("B) Conjunto de Estrelas de grande massa")
+   escreval("C) Estrelas de grande massa que vão se transformar em um Buraco Negro")
+   escreval("D) Inicio da formação de um buraco negro")
+   escreval("Resposta: ")
+   leia(resposta)
+
+   se resposta = "A" entao
+      pontuacao <- pontuacao + 1
+   fimse
+
+
+ // Pergunta 12
+   escreval(" ")
+   escreval("12) Qual a idade estimada do Universo?")
+   escreval("A) 14 bilhões")
+   escreval("B) 13,8 bilhões")
+   escreval("C) 13 bilhões")
+   escreval("D) 12 bilhões")
+   escreval("Resposta: ")
+   leia(resposta)
+
+   se resposta = "B" entao
+      pontuacao <- pontuacao + 1
+   fimse
+
+
+ // Pergunta 13
+   escreval(" ")
+   escreval("13) Em qual planeta está localizado o Monte Olimpo?")
+   escreval("A) Terra")
+   escreval("B) Mercúrio")
+   escreval("C) Marte")
+   escreval("D) Vênus")
+   escreval("Resposta: ")
+   leia(resposta)
+
+   se resposta = "C" entao
+      pontuacao <- pontuacao + 1
+   fimse
+
+
+ // Pergunta 14
+   escreval(" ")
+   escreval("14) Qual é o objeto mais luminoso do universo?")
+   escreval("A) Buraco Negro")
+   escreval("B) Quasar")
+   escreval("C) Estrela Sirius")
+   escreval("D) Poeira Cósmica")
+   escreval("Resposta: ")
+   leia(resposta)
+
+   se resposta = "B" entao
+      pontuacao <- pontuacao + 1
+   fimse
+
+
+ // Pergunta 15
+   escreval(" ")
+   escreval("15) O que são os Pilares da Criação?")
+   escreval("A) Poeira Interestelar")
+   escreval("B) Conjunto de Asteroides")
+   escreval("C) Buraco Negro")
+   escreval("D) Planetas Errantes")
+   escreval("Resposta: ")
+   leia(resposta)
+
+   se resposta = "A" entao
+      pontuacao <- pontuacao + 1
+   fimse
+
+
+ // Pergunta 16
+   escreval(" ")
+   escreval("16) Aonde fica localizado o Cinturão de Asteroides do nosso Sistema Solar?")
+   escreval("A) Terra e Vênus")
+   escreval("B) Mercúrio e Vênus")
+   escreval("C) Marte e Júpiter")
+   escreval("D) Saturno e Urano")
+   escreval("Resposta: ")
+   leia(resposta)
+
+   se resposta = "C" entao
+      pontuacao <- pontuacao + 1
+   fimse
+
+
+respostas:
+B
+C
+A
+C
+D
+A
+B
+B
+C
+A
+A
+B
+C
+B
+A
+C
+
+   // Resultado
+   escreval("")
+   escreval("Quiz terminado!")
+   escreval("Sua pontuação foi: ", pontuacao, " de 7")
+
+fimalgoritmo
