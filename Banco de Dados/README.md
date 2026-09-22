@@ -1,6 +1,6 @@
 # BANCO DE DADOS
 
-Este repositório apresenta conceitos e atividades relacionadas à criação e organização de banco de dados.
+Este portfólio apresenta conceitos e atividades relacionadas à criação e organização de banco de dados.
 
 ## Objetivo
 
