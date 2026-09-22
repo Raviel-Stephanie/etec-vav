@@ -1,6 +1,6 @@
 # COMPUTAÇÃO QUÂNTICA
 
-Este repositório apresenta conceitos, aplicações e estudos relacionados à Computação Quântica.
+Este portfólio apresenta conceitos, aplicações e estudos relacionados à Computação Quântica.
 
 ## Objetivo
 
