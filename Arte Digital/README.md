@@ -4,7 +4,7 @@ Este repositório apresenta atividades e conhecimentos desenvolvidos na área de
 
 ## Objetivo
 
-Aprender conceitos básicos de criaçã, edição e animação digital ultilizando:
+Aprender conceitos básicos de criação, edição e animação digital ultilizando:
 
 - GIMP
 - Camadas
