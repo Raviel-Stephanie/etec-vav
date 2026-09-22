@@ -1,5 +1,5 @@
 # PORTUGOL
-Este repositorio apresenta exercícios e atividades desenvolvidos utilizando Portugol para aprender conceitos básicos de lógica de programação.
+Este portfólio apresenta exercícios e atividades desenvolvidos utilizando Portugol para aprender conceitos básicos de lógica de programação.
 
 ## Objetivo
 
