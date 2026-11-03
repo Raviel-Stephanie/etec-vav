@@ -1,0 +1,177 @@
+
+body {
+    background-color: #f2f2f2;
+    color: #111;
+    font-family: Arial, sans-serif;
+    margin: 0;
+}
+
+.navbar {
+    background-color: #111;
+    padding: 20px 0;
+
+
+}
+
+.navbar-brand {
+    color: white;
+    font-weight: bold;
+    letter-spacing: 2px;
+
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.icone-menu {
+    width: 60px;
+    height: 60px;
+    object-fit: contain;
+}
+
+.navbar-brand:hover {
+    color: #ccc;
+}
+
+.menu {
+    display: flex;
+    gap: 25px;
+}
+
+.menu a {
+    color: white;
+    text-decoration: none;
+    font-size: 14px;
+}
+
+.menu a:hover {
+    text-decoration: underline;
+}
+
+
+
+.inicio {
+    background-image: linear-gradient(
+        rgba(0, 0, 0, 0.8),
+        rgba(0, 0, 0, 0.8)
+    ), url("BRAINROT INC.png");
+    background-size: 50%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-color: #000000;
+
+    color: white;
+    min-height: 600px;
+    padding: 110px 0;
+    text-align: center;
+}
+
+.etiqueta {
+    font-size: 13px;
+    letter-spacing: 4px;
+}
+
+.inicio h1 {
+    font-size: 90px;
+    font-weight: 900;
+    line-height: 0.95;
+    margin: 25px 0;
+}
+
+.inicio h2 {
+    font-size: 20px;
+    letter-spacing: 3px;
+}
+
+.descricao {
+    max-width: 500px;
+    margin: 25px auto;
+    color: #ccc;
+    line-height: 1.8;
+}
+
+
+.botao {
+    display: inline-block;
+    background-color: white;
+    color: black;
+    padding: 15px 25px;
+    margin-top: 15px;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 13px;
+}
+
+.botao:hover {
+    background-color: #ccc;
+    color: black;
+}
+
+
+.manifesto {
+    padding: 80px 0;
+    text-align: center;
+}
+
+.manifesto h2,
+.destaques h2 {
+    font-weight: 900;
+    margin-bottom: 25px;
+}
+
+.manifesto p {
+    max-width: 650px;
+    margin: auto;
+    line-height: 1.8;
+}
+
+
+.destaques {
+    padding: 70px 0;
+    background-color: white;
+}
+
+.destaque-card {
+    background-color: #111;
+    color: white;
+    border: none;
+    min-height: 180px;
+    border-radius: 0;
+}
+
+.destaque-card h3 {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.destaque-card p {
+    color: #ccc;
+    line-height: 1.7;
+}
+
+.link-pagina {
+    display: inline-block;
+    margin-top: 35px;
+    color: #111;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.link-pagina:hover {
+    text-decoration: underline;
+}
+
+
+footer {
+    background-color: #111;
+    color: white;
+    text-align: center;
+    padding: 25px 10px;
+    font-size: 12px;
+    letter-spacing: 1px;
+}
+
+footer p {
+    margin: 0;
+}
