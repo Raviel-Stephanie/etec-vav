@@ -1,8 +1,8 @@
-Sistema de Companhia Aérea
+# Sistema de Companhia Aérea
 
 Este projeto consiste em um sistema de gerenciamento de uma companhia aérea desenvolvido em Python, permitindo cadastrar passageiros, registrar voos, comprar e cancelar passagens.
 
-Objetivo
+## Objetivo
 
 Praticar lógica de programação e manipulação de dados utilizando:
 
