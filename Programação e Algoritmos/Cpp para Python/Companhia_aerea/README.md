@@ -17,7 +17,7 @@ Praticar lógica de programação e manipulação de dados utilizando:
 - Criação de backups
 - Importação de bibliotecas ("json", "os", "csv" e "shutil")
 
-Funcionalidades
+## Funcionalidades
 
 - Cadastro e consulta de passageiros
 - Cadastro e consulta de voos
@@ -29,21 +29,21 @@ Funcionalidades
 - Exportação de relatórios em CSV
 - Criação de backups dos dados
 
-Organização
+## Organização
 
 - sistema.py: código principal do sistema
 - companhia_aerea_dados.json: armazenamento dos dados
 - relatorio_passagens.csv: relatório exportado
 - backup_companhia_aerea.json: cópia de segurança dos dados
 
-Tecnologias utilizadas
+## Tecnologias utilizadas
 
 - Python
 - JSON
 - CSV
 - Bibliotecas padrão do Python
 
-Autoria
+## Autoria
 
 Raviel Rocha
 Stephanie Sciascia
